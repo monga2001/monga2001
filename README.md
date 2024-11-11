@@ -1,4 +1,4 @@
-##Hi there!
+Hi there!
 
 # 💫 About Me:
 Passionate full stack Java Developer with a relentless drive for crafting robust, scalable applications. I thrive on architecting elegant solutions to complex problems, leveraging cutting-edge technologies across the entire development stack13.<br><br>Technical Expertise<br><br>My core competencies include:<br><br>Backend: Java, Spring Boot, Hibernate, RESTful APIs<br>Frontend: JavaScript, React, Angular, HTML5, CSS3<br>Database: MySQL, PostgreSQL, MongoDB<br>DevOps: Docker, Kubernetes, Jenkins, AWS<br>Version Control: Git, GitHub<br><br>Open Source Contributions<br><br>Firm believer in the power of open source, I actively contribute to various projects, sharing my expertise and collaborating with developers worldwide. My contributions range from performance optimizations to implementing new features in popular Java libraries.<br><br>public final class AboutMe {<br>    public static void main(String[] args) {<br>        System.out.println("Welcome to my GitHub profile!");<br>        System.out.println("Let's build something amazing together!");<br>    }<br>}
